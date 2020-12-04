@@ -1,7 +1,7 @@
 
 # Sample snapshot of app
 
-![Screenshot](add3.jpg)
+![Screenshot](a.png)
 
 # Getting Started with Create React App
 
